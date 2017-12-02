@@ -1,4 +1,4 @@
-package java.com.sharath.queues;
+package com.sharath.queues;
 
 public class BasicQueueOperations {
 
